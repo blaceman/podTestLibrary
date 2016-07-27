@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F7FB0080C14A37B3756F2179CF5459973660CB90",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C17EBDBA89DC7A6CC127C0610F7F6A44CB913BC2" : 0,
+    "F7FB0080C14A37B3756F2179CF5459973660CB90" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A96E8A86-F03A-467F-805C-B79125DF0524",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C17EBDBA89DC7A6CC127C0610F7F6A44CB913BC2" : "",
+    "F7FB0080C14A37B3756F2179CF5459973660CB90" : "podTestLibrary\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "podTestLibrary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/podTestLibrary.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/blaceman\/SpecssText",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C17EBDBA89DC7A6CC127C0610F7F6A44CB913BC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "coding.net:blaceman\/podTestLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7FB0080C14A37B3756F2179CF5459973660CB90"
+    }
+  ]
+}
